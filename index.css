@@ -1,0 +1,35 @@
+
+<meta name="viewport" content="width=device-width, inital scale=1.0">
+
+/* On screens that are 600px wide or less, make the menu
+links stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .topnav.a {
+    float: none;
+    width: 100%;
+  }
+}
+
+.image-placeholder {
+    background-color: #eee;
+    display: flex;
+    height: 360px;
+    margin: 5px;
+    width: 260px;
+}
+
+body {background-color: #00FFFF}
+
+li {color: #0000CD}
+h1 {color: #0000CD}
+h2 {color: #0000CD}
+h3 {color: #0000CD}
+h4 {color: #0000CD}
+h5 {color: #0000CD}
+h6 {color: #0000CD}
+h7 {color: #0000CD}
+h8 {color: #0000CD}
+
+.img-fluid {max-width: 100%; height: auto;}
+ class: responsive
+
