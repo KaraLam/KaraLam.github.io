@@ -1,0 +1,12 @@
+/*Mobile first queries */
+/* applies to ALL widths*/
+.container {skeleton.css;
+       position: relative;
+       width: 100%
+       max-width: 960px;
+       margin: 0 auto;
+       padding: 0 20px;
+       box-sizing: border-box;}
+
+div { user agent stylesheet}
+       
